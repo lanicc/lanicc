@@ -11,7 +11,8 @@
 ### Focus on
 
 - Spring: [Document that any @Valid* annotation triggers validation in the reference manual](https://github.com/spring-projects/spring-framework/issues/27050)
-- Mybatis Plus: [QueryWrapper和UpdateWrapper添加构造方法，支持自定义columnToString方法](https://github.com/baomidou/mybatis-plus/pull/3620)
+- MyBatis Plus: [QueryWrapper和UpdateWrapper添加构造方法，支持自定义columnToString方法](https://github.com/baomidou/mybatis-plus/pull/3620)
+- MyBatis Plus: [✨ Wrapper支持根据对象字段名字符串找到对应的数据库字段](https://github.com/baomidou/mybatis-plus/pull/3622)
 - ZK: [ZOOKEEPER-4203: Leader swallows the ZooKeeperServer.State.ERROR from Leader.LearnerCnxAcceptor in some concurrency condition](https://github.com/apache/zookeeper/pull/1596)
 
 

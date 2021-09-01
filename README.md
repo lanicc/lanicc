@@ -10,7 +10,6 @@
 
 ### Focus on
 
-- ZK: [ZOOKEEPER-4321: Fix the wrong logic of preventing null pointer](https://github.com/apache/zookeeper/pull/1715)
 - Spring: [Document that any @Valid* annotation triggers validation in the reference manual](https://github.com/spring-projects/spring-framework/issues/27050)
 - ZK: [ZOOKEEPER-4203: Leader swallows the ZooKeeperServer.State.ERROR from Leader.LearnerCnxAcceptor in some concurrency condition](https://github.com/apache/zookeeper/pull/1596)
 
